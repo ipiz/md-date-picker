@@ -1,6 +1,8 @@
 # md-date-picker
 angular material customizable date picker directive/component  
 
+[![npm version](https://badge.fury.io/js/md-date-picker.svg)](http://badge.fury.io/js/md-date-picker)
+
 ## Demo
 
 - `clone repository`
